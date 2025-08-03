@@ -84,10 +84,6 @@ This project is open-source under the MIT License.
 
 ## 🙋‍♂️ Author
 
-**Your Name**  
-🔗 [Your LinkedIn](https://linkedin.com/in/your-profile)  
-💼 [Your Portfolio or Blog]  
-📧 your.email@example.com
-
----
+Ankush Waghmare 
+📧 ankush.waghmare3804@gmail.com
 
